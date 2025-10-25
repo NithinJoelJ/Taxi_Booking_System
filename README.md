@@ -109,19 +109,3 @@ endif
 stop
 @enduml
 
-
-⸻
-
-🧑‍💻 Author
-
-Nithin Joel J
-📧 [your-email@example.com]
-🌐 [LinkedIn Profile or Portfolio Link]
-
-⸻
-
-🏷️ License
-
-This project is licensed under the MIT License.
-
-Would you like me to include a **UML class diagram** (showing Main, Taxi, Customer, Booking, and BookingSystem relationships) as well? It’ll visually complete the README.
