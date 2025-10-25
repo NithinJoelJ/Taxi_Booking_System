@@ -1,7 +1,3 @@
-Sure! Here’s your complete, ready-to-paste README.md — includes everything in a single copy block 👇
-
-You can directly paste this into your GitHub README.md file.
-
 # 🚖 Taxi Booking System
 
 A **Java-based taxi booking system** that automatically assigns taxis to customers based on availability, proximity, and earnings optimization.
